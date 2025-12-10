@@ -1,16 +1,22 @@
-## Hi there 👋
+# Atefor Lesley Nkezi
 
-<!--
-**lesley237/lesley237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud / DevOps / Backend Engineer
 
-Here are some ideas to get you started:
+I design and build scalable cloud-native systems that focus on performance, automation, and reliability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Focus
+
+- AWS Cloud Engineering
+- Docker & Kubernetes
+- CI/CD Pipelines
+- Infrastructure as Code (Terraform)
+- Backend APIs (Python)
+
+## Projects
+
+- CI/CD Pipeline with Docker and AWS
+- AWS Infrastructure with Terraform
+- Kubernetes Microservices Architecture
+- Cloud Monitoring and Logging Systems
+
+I am passionate about solving real-world infrastructure and scalability problems through clean architecture and automation.
