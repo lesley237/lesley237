@@ -1,23 +1,43 @@
 ## Atefor Lesley Nkezi
 
-Cloud / DevOps / SRE Engineer
+Cloud & DevOps Engineer
 
-I design and build scalable cloud-native systems that focus on 
-performance, automation, and reliability.
+MSc Computer Science graduate focused on Cloud Infrastructure, DevOps Automation, and Site Reliability Engineering. I build cloud-native solutions on Microsoft Azure using Infrastructure as Code, CI/CD, container orchestration, and observability tools.
 
 ### Skills & Focus
 
-- Microsoft Azure Cloud Engineering
-- Docker & Kubernetes
-- CI/CD Pipelines (GitHub Actions)
-- Infrastructure as Code (Terraform)
-- Monitoring & Observability (Prometheus, Grafana)
-- Configuration Management (Ansible)
-- Backend APIs (Python)
+☁️ Cloud Engineering
+• Microsoft Azure
+
+⚙️ Infrastructure & Automation
+• Terraform
+• GitHub Actions
+• Ansible
+
+🐳 Containers & Orchestration
+• Docker
+• Kubernetes
+
+📊 Monitoring & Observability
+• Prometheus
+• Grafana
+
+💻 Programming
+• Python
+• Bash
+• SQL
 
 ### Projects
 
-- [Automated Cloud Infrastructure Deployment Pipeline](https://github.com/lesley237/cloud-infra-pipeline) — End-to-end CI/CD pipeline with Terraform, Azure, Docker, Kubernetes, Prometheus, Grafana, and Ansible
+Automated Cloud Infrastructure Deployment Pipeline
 
-I am passionate about solving real-world infrastructure and 
-reliability problems through clean architecture and automation.
+Designed and deployed an end-to-end cloud infrastructure platform on Microsoft Azure using Terraform, Docker, Kubernetes, GitHub Actions, Prometheus, Grafana, and Ansible.
+
+Key features:
+• Infrastructure as Code (Terraform)
+• CI/CD Automation (GitHub Actions)
+• Containerized Workloads (Docker & Kubernetes)
+• Monitoring & Observability (Prometheus & Grafana)
+• Configuration Management (Ansible)
+
+Currently seeking Cloud Engineering, DevOps Engineering, Platform Engineering, and SRE opportunities where I can contribute to scalable cloud infrastructure and automation initiatives.
