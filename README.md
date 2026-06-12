@@ -11,6 +11,7 @@ MSc Computer Science graduate focused on Cloud Infrastructure, DevOps Automation
 
 ⚙️ Infrastructure & Automation
 • Terraform
+• Git
 • GitHub Actions
 • Ansible
 
@@ -22,9 +23,10 @@ MSc Computer Science graduate focused on Cloud Infrastructure, DevOps Automation
 • Prometheus
 • Grafana
 
-💻 Programming
+💻 Programming & Systems
 • Python
 • Bash
+• Linux
 • SQL
 
 ### Projects
